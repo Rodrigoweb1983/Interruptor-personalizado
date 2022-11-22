@@ -1,0 +1,2 @@
+# Interruptor-personalizado
+ON-OFF
